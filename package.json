@@ -1,0 +1,23 @@
+{
+  "name": "logisim",
+  "version": "1.0.0",
+  "description": "Logic simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynse01/logisim.git"
+  },
+  "keywords": [
+    "logic",
+    "simulation"
+  ],
+  "author": "Ynse Hoornenborg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynse01/logisim/issues"
+  },
+  "homepage": "https://github.com/ynse01/logisim#readme"
+}
